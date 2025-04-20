@@ -4,6 +4,9 @@ Requirments
 "laravel/framework": "^12.0",
 "laravel/tinker": "^2.10.1"
 Rename .env with  .env.example
+git clone https://github.com/neerajgangoti/multi-auth.git
+composer install 
+
 Install Project Using the below commands
 
 php artisan migrate
